@@ -19,6 +19,7 @@
 ## :pencil: Important Note 
 - [Students](/students) folder is reserved for students of [Amal Jyothi College of Engineering](https://ajce.in)
 - Others contribute to [Contribution](/contribution) folder
+- You have to make 5 succesfull pull request in order to succesfully get the T-shirt.
 
 ## :rotating_light: Warning
 - Request only genuine PR's as given in the Instruction
